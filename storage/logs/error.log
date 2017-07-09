@@ -1,0 +1,46 @@
+2017-07-01 11:01:02 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\opencart2\upload\catalog\controller\extension\module\featured.php on line 15
+2017-07-01 11:01:03 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\opencart2\upload\catalog\controller\extension\module\featured.php on line 15
+2017-07-02 3:00:34 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 109
+2017-07-02 3:00:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 117
+2017-07-02 3:00:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 120
+2017-07-02 3:00:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 122
+2017-07-02 3:00:34 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 109
+2017-07-02 3:00:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 117
+2017-07-02 3:00:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 120
+2017-07-02 3:00:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 122
+2017-07-02 3:00:34 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 109
+2017-07-02 3:00:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 117
+2017-07-02 3:00:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 120
+2017-07-02 3:00:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 122
+2017-07-02 3:00:34 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 109
+2017-07-02 3:00:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 117
+2017-07-02 3:00:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 120
+2017-07-02 3:00:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 122
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:10 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:23 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:23 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:24 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:24 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:24 - PHP Warning:  imagesx() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
+2017-07-09 4:14:24 - PHP Warning:  imagesy() expects parameter 1 to be resource, object given in C:\xampp\htdocs\opencart2\upload\system\library\image.php on line 171
